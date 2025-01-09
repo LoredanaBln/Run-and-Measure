@@ -39,8 +39,7 @@
 
                     QueryPerformanceFrequency(out long frequency);
 
-                    string filePath = "..\\..\\result_files\\static_allocation\\cs_static_allocation_result.txt";
-
+                    string filePath = "..\\..\\..\\..\\..\\..\\result_files\\static_allocation\\cs_static_allocation_result.txt";
                     using (StreamWriter file = new StreamWriter(filePath))
                     {
                         Console.WriteLine("File opened.");

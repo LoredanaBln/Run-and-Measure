@@ -56,7 +56,7 @@ namespace Benchmarks
                 return;
             }
 
-            string filePath = "..\\..\\result_files\\dynamic_memory_access_writing\\cs_dynamic_memory_access_writing_result.txt";
+            string filePath = "..\\..\\..\\..\\..\\..\\result_files\\dynamic_memory_access_writing\\cs_dynamic_memory_access_writing_result.txt";
 
             using (StreamWriter file = new StreamWriter(filePath))
             {

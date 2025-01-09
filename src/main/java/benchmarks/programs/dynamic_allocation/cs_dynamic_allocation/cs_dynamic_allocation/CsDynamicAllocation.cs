@@ -56,8 +56,7 @@ namespace Benchmarks
                 return;
             }
 
-            string filePath = "..\\..\\result_files\\dynamic_allocation\\cs_dynamic_allocation_result.txt";
-
+            string filePath = "..\\..\\..\\..\\result_files\\dynamic_allocation\\cs_dynamic_allocation_result.txt";
             using (StreamWriter file = new StreamWriter(filePath))
             {
                 Console.WriteLine("File opened.");

@@ -46,7 +46,7 @@ class CsStaticMemoryAccessReading
 
         QueryPerformanceFrequency(out long frequency);
 
-        string filePath = "..\\..\\result_files\\static_memory_access_reading\\cs_static_memory_access_reading_result.txt";
+        string filePath = "../../../../../../result_files/static_memory_access_reading/cs_static_memory_access_reading_result.txt";
 
         using (StreamWriter file = new StreamWriter(filePath))
         {

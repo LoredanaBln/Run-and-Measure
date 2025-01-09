@@ -69,7 +69,7 @@ class ThreadContextSwitch
         QueryPerformanceFrequency(out long frequency);
 
         double totalSwitchTime = 0.0;
-        string filePath = @"..\\..\\result_files\\thread_context_switch\\csharp_thread_context_switch_result.txt";
+        string filePath = "../../../../../../result_files/thread_context_switch/csharp_thread_context_switch_result.txt";
 
         using (StreamWriter writer = new StreamWriter(filePath))
         {

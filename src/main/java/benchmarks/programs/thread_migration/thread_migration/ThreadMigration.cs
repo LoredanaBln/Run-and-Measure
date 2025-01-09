@@ -73,7 +73,7 @@ namespace ThreadMigration
             int numOfTests = GetNumberOfTests(args);
             double totalMigrationTime = 0.0;
 
-            string filePath = @"..\\..\\result_files\\thread_migration\\csharp_thread_migration_result.txt";
+            string filePath = "../../../../../../result_files/thread_migration/csharp_thread_migration_result.txt";
 
             try
             {

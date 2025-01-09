@@ -37,7 +37,7 @@ class CsThreadManagement
         }
 
         double totalElapsedTime = 0.0;
-        string filePath = "..\\..\\result_files\\threads_management\\cs_thread_management_result.txt";
+        string filePath = "../../../../../../result_files/threads_management/cs_thread_management_result.txt";
 
         using (StreamWriter file = new StreamWriter(filePath))
         {
