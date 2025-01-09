@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5dfa3c36-45d3-4e85-ac9f-3f543efb5dac" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Enum" />
+        <option value="CSS File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2oWmFJU9AiTHA46rtPdqp8kjbDX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_directory_selection&quot;: &quot;E:/AN3/ssc/PROIECT/run_and_measure/src/main/java/com/example/run_and_measure&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/AN3/ssc/PROIECT/run_and_measure/src/main/java/benchmarks/programs/thread_migration&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.19921875&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.37118438&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JAVA&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\thread_migration" />
+      <recent name="E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_allocation" />
+      <recent name="E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\result_files" />
+      <recent name="E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\dynamic_memory_access_writing" />
+      <recent name="E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\result_files\thread_context_switch" />
+      <recent name="E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_allocation\StaticAllocationApp" />
+      <recent name="E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_allocation\StaticAllocationApp\obj" />
+      <recent name="E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_allocation" />
+      <recent name="E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\result_files\dynamic_allocation" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="view" />
+      <recent name="com.example.run_and_measure" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.controller.RunAndMeasureApplication">
+    <configuration name="DynamicMemoryAllocation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="benchmarks.programs.dynamic_allocation.DynamicMemoryAllocation" />
+      <module name="run_and_measure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="benchmarks.programs.dynamic_allocation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunAndMeasureApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.run_and_measure.RunAndMeasureApplication" />
+      <module name="run_and_measure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadMigration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="benchmarks.programs.thread_migration.ThreadMigration" />
+      <module name="run_and_measure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="benchmarks.programs.thread_migration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="controller.RunAndMeasureApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controller.RunAndMeasureApplication" />
+      <module name="run_and_measure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scratch" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scratch" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.controller.RunAndMeasureApplication" />
+        <item itemvalue="Application.ThreadMigration" />
+        <item itemvalue="Application.RunAndMeasureApplication" />
+        <item itemvalue="Java Scratch.Scratch" />
+        <item itemvalue="Application.DynamicMemoryAllocation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5dfa3c36-45d3-4e85-ac9f-3f543efb5dac" name="Changes" comment="" />
+      <created>1730993604065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730993604065</updated>
+      <workItem from="1730993605132" duration="82000" />
+      <workItem from="1730993707853" duration="202000" />
+      <workItem from="1730993970492" duration="596000" />
+      <workItem from="1730994577816" duration="8028000" />
+      <workItem from="1731154695074" duration="21277000" />
+      <workItem from="1731247182687" duration="4923000" />
+      <workItem from="1731406193086" duration="44000" />
+      <workItem from="1731437352462" duration="5160000" />
+      <workItem from="1731442617356" duration="1871000" />
+      <workItem from="1731507766475" duration="15770000" />
+      <workItem from="1731564159836" duration="96000" />
+      <workItem from="1731564751878" duration="2480000" />
+      <workItem from="1731580586812" duration="673000" />
+      <workItem from="1731582689841" duration="45000" />
+      <workItem from="1731607639643" duration="12834000" />
+      <workItem from="1731653677210" duration="371000" />
+      <workItem from="1731657559628" duration="1739000" />
+      <workItem from="1731783558213" duration="130000" />
+      <workItem from="1731783720368" duration="6000" />
+      <workItem from="1732199485354" duration="21885000" />
+      <workItem from="1732312591894" duration="595000" />
+      <workItem from="1732374583658" duration="9000" />
+      <workItem from="1732716647798" duration="2719000" />
+      <workItem from="1732720541398" duration="17920000" />
+      <workItem from="1732739372618" duration="3105000" />
+      <workItem from="1732789587772" duration="2479000" />
+      <workItem from="1732813344109" duration="1051000" />
+      <workItem from="1732814409856" duration="7843000" />
+      <workItem from="1732822277940" duration="313000" />
+      <workItem from="1732822602898" duration="552000" />
+      <workItem from="1732823167856" duration="7816000" />
+      <workItem from="1732831014325" duration="7555000" />
+      <workItem from="1732856922620" duration="5151000" />
+      <workItem from="1732867271188" duration="2460000" />
+      <workItem from="1733218469550" duration="235000" />
+      <workItem from="1733248503307" duration="5297000" />
+      <workItem from="1733394876466" duration="2985000" />
+      <workItem from="1733825500209" duration="16000" />
+      <workItem from="1733938389999" duration="4931000" />
+      <workItem from="1733943348935" duration="974000" />
+      <workItem from="1733990789535" duration="40000" />
+      <workItem from="1734116451492" duration="3909000" />
+      <workItem from="1734251296610" duration="10081000" />
+      <workItem from="1734364240041" duration="6458000" />
+      <workItem from="1734422893555" duration="2171000" />
+      <workItem from="1734425083284" duration="3881000" />
+      <workItem from="1734430429860" duration="5019000" />
+      <workItem from="1734459693926" duration="9828000" />
+      <workItem from="1734526471076" duration="1455000" />
+      <workItem from="1734529944313" duration="817000" />
+      <workItem from="1735494503178" duration="13000" />
+      <workItem from="1735838134912" duration="5340000" />
+      <workItem from="1735843955205" duration="8535000" />
+      <workItem from="1735852739218" duration="192000" />
+      <workItem from="1735896511336" duration="7000" />
+      <workItem from="1736093311721" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/view/AppController.java</url>
+          <line>214</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/view/AppController.java</url>
+          <line>205</line>
+          <properties class="view.AppController" method="getDataSizeOfSelectedTest">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="processBuilder" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

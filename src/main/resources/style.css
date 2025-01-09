@@ -1,0 +1,31 @@
+.scroll-pane {
+    -fx-background-color: white;
+    -fx-background-radius: 30;
+}
+.scroll-pane .viewport{
+    -fx-background-color: transparent;
+}
+.scroll-pane .content{
+    -fx-background-color: transparent;
+}
+
+.chart-plot-background {
+    -fx-background-color: transparent;
+}
+
+.default-color0.chart-series-line { -fx-stroke: #13c53c; }
+.default-color1.chart-series-line { -fx-stroke: #d58000; }
+.default-color2.chart-series-line { -fx-stroke: #000000; }
+
+.default-color0.chart-line-symbol { -fx-background-color: #13c53c, white; }
+.default-color1.chart-line-symbol { -fx-background-color: #d58000, white; }
+.default-color2.chart-line-symbol { -fx-background-color: #000000, white; }
+
+
+.text-area {
+    -fx-background-color: white;
+    -fx-background-radius: 30;
+    -fx-text-fill: black;
+    -fx-font-size: 16;
+}
+

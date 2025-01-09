@@ -1,0 +1,15 @@
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_memory_access_reading\cs_static_memory_access_reading\obj\Debug\net6.0\cs_static_memory_access_reading.csproj.AssemblyReference.cache
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_memory_access_reading\cs_static_memory_access_reading\obj\Debug\net6.0\cs_static_memory_access_reading.GeneratedMSBuildEditorConfig.editorconfig
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_memory_access_reading\cs_static_memory_access_reading\obj\Debug\net6.0\cs_static_memory_access_reading.AssemblyInfoInputs.cache
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_memory_access_reading\cs_static_memory_access_reading\obj\Debug\net6.0\cs_static_memory_access_reading.AssemblyInfo.cs
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_memory_access_reading\cs_static_memory_access_reading\obj\Debug\net6.0\cs_static_memory_access_reading.csproj.CoreCompileInputs.cache
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_memory_access_reading\cs_static_memory_access_reading\bin\Debug\net6.0\cs_static_memory_access_reading.exe
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_memory_access_reading\cs_static_memory_access_reading\bin\Debug\net6.0\cs_static_memory_access_reading.deps.json
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_memory_access_reading\cs_static_memory_access_reading\bin\Debug\net6.0\cs_static_memory_access_reading.runtimeconfig.json
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_memory_access_reading\cs_static_memory_access_reading\bin\Debug\net6.0\cs_static_memory_access_reading.dll
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_memory_access_reading\cs_static_memory_access_reading\bin\Debug\net6.0\cs_static_memory_access_reading.pdb
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_memory_access_reading\cs_static_memory_access_reading\obj\Debug\net6.0\cs_static_memory_access_reading.dll
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_memory_access_reading\cs_static_memory_access_reading\obj\Debug\net6.0\refint\cs_static_memory_access_reading.dll
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_memory_access_reading\cs_static_memory_access_reading\obj\Debug\net6.0\cs_static_memory_access_reading.pdb
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_memory_access_reading\cs_static_memory_access_reading\obj\Debug\net6.0\cs_static_memory_access_reading.genruntimeconfig.cache
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_memory_access_reading\cs_static_memory_access_reading\obj\Debug\net6.0\ref\cs_static_memory_access_reading.dll

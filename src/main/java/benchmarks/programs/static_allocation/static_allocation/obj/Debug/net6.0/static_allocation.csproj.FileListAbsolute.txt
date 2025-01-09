@@ -1,0 +1,15 @@
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_allocation\static_allocation\bin\Debug\net6.0\static_allocation.exe
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_allocation\static_allocation\bin\Debug\net6.0\static_allocation.deps.json
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_allocation\static_allocation\bin\Debug\net6.0\static_allocation.runtimeconfig.json
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_allocation\static_allocation\bin\Debug\net6.0\static_allocation.dll
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_allocation\static_allocation\bin\Debug\net6.0\static_allocation.pdb
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_allocation\static_allocation\obj\Debug\net6.0\static_allocation.csproj.AssemblyReference.cache
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_allocation\static_allocation\obj\Debug\net6.0\static_allocation.GeneratedMSBuildEditorConfig.editorconfig
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_allocation\static_allocation\obj\Debug\net6.0\static_allocation.AssemblyInfoInputs.cache
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_allocation\static_allocation\obj\Debug\net6.0\static_allocation.AssemblyInfo.cs
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_allocation\static_allocation\obj\Debug\net6.0\static_allocation.csproj.CoreCompileInputs.cache
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_allocation\static_allocation\obj\Debug\net6.0\static_allocation.dll
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_allocation\static_allocation\obj\Debug\net6.0\refint\static_allocation.dll
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_allocation\static_allocation\obj\Debug\net6.0\static_allocation.pdb
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_allocation\static_allocation\obj\Debug\net6.0\static_allocation.genruntimeconfig.cache
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_allocation\static_allocation\obj\Debug\net6.0\ref\static_allocation.dll

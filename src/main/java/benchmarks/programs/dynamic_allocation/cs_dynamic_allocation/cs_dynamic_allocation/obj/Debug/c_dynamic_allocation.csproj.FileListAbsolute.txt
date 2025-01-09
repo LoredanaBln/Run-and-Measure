@@ -1,0 +1,8 @@
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\dynamic_allocation\c_dynamic_allocation\c_dynamic_allocation\bin\Debug\c_dynamic_allocation.exe.config
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\dynamic_allocation\c_dynamic_allocation\c_dynamic_allocation\bin\Debug\c_dynamic_allocation.exe
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\dynamic_allocation\c_dynamic_allocation\c_dynamic_allocation\bin\Debug\c_dynamic_allocation.pdb
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\dynamic_allocation\c_dynamic_allocation\c_dynamic_allocation\obj\Debug\c_dynamic_allocation.csproj.AssemblyReference.cache
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\dynamic_allocation\c_dynamic_allocation\c_dynamic_allocation\obj\Debug\c_dynamic_allocation.csproj.SuggestedBindingRedirects.cache
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\dynamic_allocation\c_dynamic_allocation\c_dynamic_allocation\obj\Debug\c_dynamic_allocation.csproj.CoreCompileInputs.cache
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\dynamic_allocation\c_dynamic_allocation\c_dynamic_allocation\obj\Debug\c_dynamic_allocation.exe
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\dynamic_allocation\c_dynamic_allocation\c_dynamic_allocation\obj\Debug\c_dynamic_allocation.pdb

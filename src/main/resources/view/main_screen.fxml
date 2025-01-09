@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.effect.DropShadow?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.paint.Color?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="877.0" prefWidth="1327.0" style="-fx-background-color: black;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="view.AppController">
+   <children>
+      <AnchorPane layoutX="20.0" layoutY="25.0" prefHeight="828.0" prefWidth="379.0" style="-fx-background-color: white; -fx-background-radius: 30;">
+         <children>
+            <Label layoutX="75.0" layoutY="6.0" prefHeight="50.0" prefWidth="263.0" text="Run&amp;Measure" textFill="#f59f22">
+               <font>
+                  <Font name="System Bold" size="34.0" />
+               </font>
+            </Label>
+            <ComboBox fx:id="numberOfTestsComboBox" layoutX="38.0" layoutY="61.0" maxWidth="379.0" prefHeight="39.0" prefWidth="304.0" promptText="Choose number of tests" style="-fx-background-color: white;">
+               <effect>
+                  <DropShadow>
+                     <color>
+                        <Color red="0.5263158082962036" green="0.5263158082962036" blue="0.5263158082962036" />
+                     </color>
+                  </DropShadow>
+               </effect>
+            </ComboBox>
+            <VBox layoutX="38.0" layoutY="104.0" prefHeight="662.0" prefWidth="205.0">
+               <children>
+                  <CheckBox fx:id="staticAllocationCheckbox" contentDisplay="TOP" maxHeight="81.0" mnemonicParsing="false" prefHeight="200.0" prefWidth="205.0" style="-fx-background-color: white; -fx-background-radius: 10;" text="Static memory allocation" wrapText="true">
+                     <padding>
+                        <Insets left="15.0" />
+                     </padding>
+                     <font>
+                        <Font size="16.0" />
+                     </font>
+                     <effect>
+                        <DropShadow blurType="ONE_PASS_BOX" height="15.14" radius="7.8025" width="18.07">
+                           <color>
+                              <Color red="0.3947368562221527" green="0.3947368562221527" blue="0.3947368562221527" />
+                           </color>
+                        </DropShadow>
+                     </effect>
+                     <VBox.margin>
+                        <Insets bottom="10.0" top="10.0" />
+                     </VBox.margin>
+                  </CheckBox>
+                  <CheckBox fx:id="dynamicAllocationCheckbox" maxHeight="81.0" mnemonicParsing="false" prefHeight="200.0" prefWidth="205.0" style="-fx-background-color: white; -fx-background-radius: 10;" text="Dynamic memory allocation" wrapText="true">
+                     <padding>
+                        <Insets left="15.0" />
+                     </padding>
+                     <font>
+                        <Font size="16.0" />
+                     </font>
+                     <effect>
+                        <DropShadow blurType="ONE_PASS_BOX" height="15.14" radius="7.8025" width="18.07">
+                           <color>
+                              <Color red="0.3947368562221527" green="0.3947368562221527" blue="0.3947368562221527" />
+                           </color>
+                        </DropShadow>
+                     </effect>
+                     <VBox.margin>
+                        <Insets bottom="10.0" top="10.0" />
+                     </VBox.margin>
+                     <cursor>
+                        <Cursor fx:constant="HAND" />
+                     </cursor>
+                  </CheckBox>
+                  <CheckBox fx:id="staticAccessReadingCheckbox" maxHeight="81.0" mnemonicParsing="false" prefHeight="200.0" prefWidth="316.0" style="-fx-background-color: white; -fx-background-radius: 10;" text="Static memory access reading" wrapText="true">
+                     <padding>
+                        <Insets left="15.0" />
+                     </padding>
+                     <font>
+                        <Font size="16.0" />
+                     </font>
+                     <effect>
+                        <DropShadow blurType="ONE_PASS_BOX" height="15.14" radius="7.8025" width="18.07">
+                           <color>
+                              <Color red="0.3947368562221527" green="0.3947368562221527" blue="0.3947368562221527" />
+                           </color>
+                        </DropShadow>
+                     </effect>
+                     <VBox.margin>
+                        <Insets bottom="10.0" top="10.0" />
+                     </VBox.margin>
+                     <cursor>
+                        <Cursor fx:constant="HAND" />
+                     </cursor>
+                  </CheckBox>
+                  <CheckBox fx:id="staticAccessWritingCheckbox" maxHeight="81.0" mnemonicParsing="false" prefHeight="200.0" prefWidth="312.0" style="-fx-background-color: white; -fx-background-radius: 10;" text="Static memory access writing" wrapText="true">
+                     <padding>
+                        <Insets left="15.0" />
+                     </padding>
+                     <font>
+                        <Font size="16.0" />
+                     </font>
+                     <effect>
+                        <DropShadow blurType="ONE_PASS_BOX" height="15.14" radius="7.8025" width="18.07">
+                           <color>
+                              <Color red="0.3947368562221527" green="0.3947368562221527" blue="0.3947368562221527" />
+                           </color>
+                        </DropShadow>
+                     </effect>
+                     <VBox.margin>
+                        <Insets bottom="10.0" top="10.0" />
+                     </VBox.margin>
+                     <cursor>
+                        <Cursor fx:constant="HAND" />
+                     </cursor>
+                  </CheckBox>
+                  <CheckBox fx:id="dynamicAccessReadingCheckbox" maxHeight="81.0" mnemonicParsing="false" prefHeight="200.0" prefWidth="316.0" style="-fx-background-color: white; -fx-background-radius: 10;" text="Dynamic memory access reading" wrapText="true">
+                     <padding>
+                        <Insets left="15.0" />
+                     </padding>
+                     <font>
+                        <Font size="16.0" />
+                     </font>
+                     <effect>
+                        <DropShadow blurType="ONE_PASS_BOX" height="15.14" radius="7.8025" width="18.07">
+                           <color>
+                              <Color red="0.3947368562221527" green="0.3947368562221527" blue="0.3947368562221527" />
+                           </color>
+                        </DropShadow>
+                     </effect>
+                     <VBox.margin>
+                        <Insets bottom="10.0" top="10.0" />
+                     </VBox.margin>
+                     <cursor>
+                        <Cursor fx:constant="HAND" />
+                     </cursor>
+                  </CheckBox>
+                  <CheckBox fx:id="dynamicAccessWritingCheckbox" maxHeight="81.0" mnemonicParsing="false" prefHeight="200.0" prefWidth="440.0" style="-fx-background-color: white; -fx-background-radius: 10;" text="Dynamic memory access writing" wrapText="true">
+                     <VBox.margin>
+                        <Insets bottom="10.0" top="10.0" />
+                     </VBox.margin>
+                     <padding>
+                        <Insets left="15.0" />
+                     </padding>
+                     <font>
+                        <Font size="16.0" />
+                     </font>
+                     <effect>
+                        <DropShadow blurType="ONE_PASS_BOX" height="15.14" radius="7.8025" width="18.07">
+                           <color>
+                              <Color red="0.3947368562221527" green="0.3947368562221527" blue="0.3947368562221527" />
+                           </color>
+                        </DropShadow>
+                     </effect>
+                     <cursor>
+                        <Cursor fx:constant="HAND" />
+                     </cursor>
+                  </CheckBox>
+                  <CheckBox fx:id="threadManagementCheckbox" maxHeight="81.0" mnemonicParsing="false" prefHeight="200.0" prefWidth="440.0" style="-fx-background-color: white; -fx-background-radius: 10;" text="Threads management" wrapText="true">
+                     <VBox.margin>
+                        <Insets bottom="10.0" top="10.0" />
+                     </VBox.margin>
+                     <padding>
+                        <Insets left="15.0" />
+                     </padding>
+                     <font>
+                        <Font size="16.0" />
+                     </font>
+                     <effect>
+                        <DropShadow blurType="ONE_PASS_BOX" height="15.14" radius="7.8025" width="18.07">
+                           <color>
+                              <Color red="0.3947368562221527" green="0.3947368562221527" blue="0.3947368562221527" />
+                           </color>
+                        </DropShadow>
+                     </effect>
+                     <cursor>
+                        <Cursor fx:constant="HAND" />
+                     </cursor>
+                  </CheckBox>
+                  <CheckBox fx:id="threadMigrationCheckbox" maxHeight="81.0" mnemonicParsing="false" prefHeight="200.0" prefWidth="440.0" style="-fx-background-color: white; -fx-background-radius: 10;" text="Threads migration" wrapText="true">
+                     <VBox.margin>
+                        <Insets bottom="10.0" top="10.0" />
+                     </VBox.margin>
+                     <padding>
+                        <Insets left="15.0" />
+                     </padding>
+                     <font>
+                        <Font size="16.0" />
+                     </font>
+                     <effect>
+                        <DropShadow blurType="ONE_PASS_BOX" height="15.14" radius="7.8025" width="18.07">
+                           <color>
+                              <Color red="0.3947368562221527" green="0.3947368562221527" blue="0.3947368562221527" />
+                           </color>
+                        </DropShadow>
+                     </effect>
+                     <cursor>
+                        <Cursor fx:constant="HAND" />
+                     </cursor>
+                  </CheckBox>
+                  <CheckBox fx:id="threadContextSwitchCheckbox" maxHeight="81.0" mnemonicParsing="false" prefHeight="200.0" prefWidth="293.0" style="-fx-background-color: white; -fx-background-radius: 10;" text="Threads context-switch" wrapText="true">
+                     <VBox.margin>
+                        <Insets bottom="10.0" top="10.0" />
+                     </VBox.margin>
+                     <padding>
+                        <Insets left="15.0" />
+                     </padding>
+                     <font>
+                        <Font size="16.0" />
+                     </font>
+                     <effect>
+                        <DropShadow blurType="ONE_PASS_BOX" height="15.14" radius="7.8025" width="18.07">
+                           <color>
+                              <Color red="0.3947368562221527" green="0.3947368562221527" blue="0.3947368562221527" />
+                           </color>
+                        </DropShadow>
+                     </effect>
+                     <cursor>
+                        <Cursor fx:constant="HAND" />
+                     </cursor>
+                  </CheckBox>
+               </children>
+            </VBox>
+            <ComboBox fx:id="staticAllocationArraySizeComboBox" disable="true" layoutX="260.0" layoutY="121.0" prefHeight="42.0" prefWidth="82.0" promptText="10000" style="-fx-background-color: white;">
+               <effect>
+                  <DropShadow>
+                     <color>
+                        <Color red="0.3684210479259491" green="0.3684210479259491" blue="0.3684210479259491" />
+                     </color>
+                  </DropShadow>
+               </effect>
+            </ComboBox>
+            <ComboBox fx:id="dynamicAllocationArraySizeComboBox" layoutX="260.0" layoutY="192.0" prefHeight="42.0" prefWidth="82.0" promptText="10000" style="-fx-background-color: white;">
+               <effect>
+                  <DropShadow>
+                     <color>
+                        <Color red="0.3684210479259491" green="0.3684210479259491" blue="0.3684210479259491" />
+                     </color>
+                  </DropShadow>
+               </effect>
+            </ComboBox>
+            <ComboBox fx:id="threadsNumberManagementComboBox" layoutX="260.0" layoutY="558.0" prefHeight="42.0" prefWidth="82.0" promptText="10" style="-fx-background-color: white;">
+               <effect>
+                  <DropShadow>
+                     <color>
+                        <Color red="0.3684210479259491" green="0.3684210479259491" blue="0.3684210479259491" />
+                     </color>
+                  </DropShadow>
+               </effect>
+            </ComboBox>
+            <ComboBox fx:id="threadsNumberMigrationComboBox" disable="true" layoutX="260.0" layoutY="638.0" prefHeight="42.0" prefWidth="82.0" promptText="10" style="-fx-background-color: white;">
+               <effect>
+                  <DropShadow>
+                     <color>
+                        <Color red="0.3684210479259491" green="0.3684210479259491" blue="0.3684210479259491" />
+                     </color>
+                  </DropShadow>
+               </effect>
+            </ComboBox>
+            <ComboBox fx:id="threadsNumberContextComboBox" disable="true" layoutX="260.0" layoutY="708.0" prefHeight="42.0" prefWidth="82.0" promptText="10" style="-fx-background-color: white;">
+               <effect>
+                  <DropShadow>
+                     <color>
+                        <Color red="0.3684210479259491" green="0.3684210479259491" blue="0.3684210479259491" />
+                     </color>
+                  </DropShadow>
+               </effect>
+            </ComboBox>
+            <ComboBox fx:id="staticAccessWriteArraySizeComboBox" disable="true" layoutX="260.0" layoutY="337.0" prefHeight="42.0" prefWidth="82.0" promptText="10000" style="-fx-background-color: white;">
+               <effect>
+                  <DropShadow>
+                     <color>
+                        <Color red="0.3684210479259491" green="0.3684210479259491" blue="0.3684210479259491" />
+                     </color>
+                  </DropShadow>
+               </effect>
+            </ComboBox>
+            <ComboBox fx:id="dynamicAccessReadArraySizeComboBox" layoutX="260.0" layoutY="415.0" prefHeight="42.0" prefWidth="82.0" promptText="10000" style="-fx-background-color: white;">
+               <effect>
+                  <DropShadow>
+                     <color>
+                        <Color red="0.3684210479259491" green="0.3684210479259491" blue="0.3684210479259491" />
+                     </color>
+                  </DropShadow>
+               </effect>
+            </ComboBox>
+            <ComboBox fx:id="dynamicAccessWriteArraySizeComboBox" layoutX="260.0" layoutY="490.0" prefHeight="42.0" prefWidth="82.0" promptText="10000" style="-fx-background-color: white;">
+               <effect>
+                  <DropShadow>
+                     <color>
+                        <Color red="0.3684210479259491" green="0.3684210479259491" blue="0.3684210479259491" />
+                     </color>
+                  </DropShadow>
+               </effect>
+            </ComboBox>
+            <ComboBox fx:id="staticAccessReadArraySizeComboBox" disable="true" layoutX="260.0" layoutY="266.0" prefHeight="42.0" prefWidth="82.0" promptText="10000" style="-fx-background-color: white;">
+               <effect>
+                  <DropShadow>
+                     <color>
+                        <Color red="0.3684210479259491" green="0.3684210479259491" blue="0.3684210479259491" />
+                     </color>
+                  </DropShadow>
+               </effect>
+            </ComboBox>
+            <Button fx:id="startButton" alignment="CENTER" layoutX="38.0" layoutY="772.0" mnemonicParsing="false" onMouseClicked="#runPrograms" prefHeight="39.0" prefWidth="304.0" style="-fx-background-color: green; -fx-background-radius: 15;" text="Start" textFill="WHITE">
+               <font>
+                  <Font name="System Bold" size="18.0" />
+               </font>
+               <effect>
+                  <DropShadow blurType="ONE_PASS_BOX" height="12.21" radius="7.07" width="18.07">
+                     <color>
+                        <Color red="0.07894736528396606" green="0.07894736528396606" blue="0.07894736528396606" />
+                     </color>
+                  </DropShadow>
+               </effect>
+            </Button>
+            <ImageView fitHeight="42.0" fitWidth="50.0" layoutX="35.0" layoutY="7.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../com/icons8-exe-48.png" />
+               </image>
+            </ImageView>
+         </children>
+         <effect>
+            <DropShadow>
+               <color>
+                  <Color red="0.5789473652839661" green="0.5789473652839661" blue="0.5789473652839661" />
+               </color>
+            </DropShadow>
+         </effect>
+      </AnchorPane>
+      <ScrollPane fx:id="chartPanel" layoutX="426.0" layoutY="25.0" prefHeight="669.0" prefWidth="860.0" stylesheets="@../style.css">
+         <effect>
+            <DropShadow>
+               <color>
+                  <Color red="0.6315789222717285" green="0.6315789222717285" blue="0.6315789222717285" />
+               </color>
+            </DropShadow>
+         </effect>
+         <content>
+            <GridPane fx:id="chartGridPane" prefHeight="30.0" prefWidth="1.0">
+              <rowConstraints>
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+              </rowConstraints>
+            </GridPane>
+         </content>
+         <padding>
+            <Insets left="10.0" right="10.0" />
+         </padding>
+      </ScrollPane>
+      <HBox layoutX="424.0" layoutY="722.0" prefHeight="128.0" prefWidth="861.0">
+         <children>
+            <TextArea fx:id="logTextArea" prefHeight="143.0" prefWidth="861.0" stylesheets="@../style.css">
+               <padding>
+                  <Insets left="10.0" right="10.0" top="10.0" />
+               </padding></TextArea>
+         </children></HBox>
+   </children>
+</AnchorPane>

@@ -1,0 +1,15 @@
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_memory_access_writing\static_memory_access_writing\bin\Debug\net6.0\static_memory_access_writing.exe
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_memory_access_writing\static_memory_access_writing\bin\Debug\net6.0\static_memory_access_writing.deps.json
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_memory_access_writing\static_memory_access_writing\bin\Debug\net6.0\static_memory_access_writing.runtimeconfig.json
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_memory_access_writing\static_memory_access_writing\bin\Debug\net6.0\static_memory_access_writing.dll
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_memory_access_writing\static_memory_access_writing\bin\Debug\net6.0\static_memory_access_writing.pdb
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_memory_access_writing\static_memory_access_writing\obj\Debug\net6.0\static_memory_access_writing.csproj.AssemblyReference.cache
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_memory_access_writing\static_memory_access_writing\obj\Debug\net6.0\static_memory_access_writing.GeneratedMSBuildEditorConfig.editorconfig
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_memory_access_writing\static_memory_access_writing\obj\Debug\net6.0\static_memory_access_writing.AssemblyInfoInputs.cache
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_memory_access_writing\static_memory_access_writing\obj\Debug\net6.0\static_memory_access_writing.AssemblyInfo.cs
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_memory_access_writing\static_memory_access_writing\obj\Debug\net6.0\static_memory_access_writing.csproj.CoreCompileInputs.cache
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_memory_access_writing\static_memory_access_writing\obj\Debug\net6.0\static_memory_access_writing.dll
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_memory_access_writing\static_memory_access_writing\obj\Debug\net6.0\refint\static_memory_access_writing.dll
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_memory_access_writing\static_memory_access_writing\obj\Debug\net6.0\static_memory_access_writing.pdb
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_memory_access_writing\static_memory_access_writing\obj\Debug\net6.0\static_memory_access_writing.genruntimeconfig.cache
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\static_memory_access_writing\static_memory_access_writing\obj\Debug\net6.0\ref\static_memory_access_writing.dll

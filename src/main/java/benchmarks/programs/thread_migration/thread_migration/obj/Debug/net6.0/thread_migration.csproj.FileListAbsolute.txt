@@ -1,0 +1,15 @@
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\thread_migration\thread_migration\bin\Debug\net6.0\thread_migration.exe
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\thread_migration\thread_migration\bin\Debug\net6.0\thread_migration.deps.json
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\thread_migration\thread_migration\bin\Debug\net6.0\thread_migration.runtimeconfig.json
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\thread_migration\thread_migration\bin\Debug\net6.0\thread_migration.dll
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\thread_migration\thread_migration\bin\Debug\net6.0\thread_migration.pdb
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\thread_migration\thread_migration\obj\Debug\net6.0\thread_migration.csproj.AssemblyReference.cache
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\thread_migration\thread_migration\obj\Debug\net6.0\thread_migration.GeneratedMSBuildEditorConfig.editorconfig
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\thread_migration\thread_migration\obj\Debug\net6.0\thread_migration.AssemblyInfoInputs.cache
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\thread_migration\thread_migration\obj\Debug\net6.0\thread_migration.AssemblyInfo.cs
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\thread_migration\thread_migration\obj\Debug\net6.0\thread_migration.csproj.CoreCompileInputs.cache
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\thread_migration\thread_migration\obj\Debug\net6.0\thread_migration.dll
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\thread_migration\thread_migration\obj\Debug\net6.0\refint\thread_migration.dll
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\thread_migration\thread_migration\obj\Debug\net6.0\thread_migration.pdb
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\thread_migration\thread_migration\obj\Debug\net6.0\thread_migration.genruntimeconfig.cache
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\thread_migration\thread_migration\obj\Debug\net6.0\ref\thread_migration.dll

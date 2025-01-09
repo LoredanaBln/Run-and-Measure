@@ -1,0 +1,15 @@
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\thread_context_switch\thread_context_switch\bin\Debug\net6.0\thread_context_switch.exe
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\thread_context_switch\thread_context_switch\bin\Debug\net6.0\thread_context_switch.deps.json
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\thread_context_switch\thread_context_switch\bin\Debug\net6.0\thread_context_switch.runtimeconfig.json
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\thread_context_switch\thread_context_switch\bin\Debug\net6.0\thread_context_switch.dll
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\thread_context_switch\thread_context_switch\bin\Debug\net6.0\thread_context_switch.pdb
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\thread_context_switch\thread_context_switch\obj\Debug\net6.0\thread_context_switch.csproj.AssemblyReference.cache
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\thread_context_switch\thread_context_switch\obj\Debug\net6.0\thread_context_switch.GeneratedMSBuildEditorConfig.editorconfig
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\thread_context_switch\thread_context_switch\obj\Debug\net6.0\thread_context_switch.AssemblyInfoInputs.cache
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\thread_context_switch\thread_context_switch\obj\Debug\net6.0\thread_context_switch.AssemblyInfo.cs
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\thread_context_switch\thread_context_switch\obj\Debug\net6.0\thread_context_switch.csproj.CoreCompileInputs.cache
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\thread_context_switch\thread_context_switch\obj\Debug\net6.0\thread_context_switch.dll
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\thread_context_switch\thread_context_switch\obj\Debug\net6.0\refint\thread_context_switch.dll
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\thread_context_switch\thread_context_switch\obj\Debug\net6.0\thread_context_switch.pdb
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\thread_context_switch\thread_context_switch\obj\Debug\net6.0\thread_context_switch.genruntimeconfig.cache
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\thread_context_switch\thread_context_switch\obj\Debug\net6.0\ref\thread_context_switch.dll

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.chart.LineChart?>
+<?import javafx.scene.chart.NumberAxis?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.effect.DropShadow?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.paint.Color?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="476.0" prefWidth="800.0" style="-fx-background-color: white; -fx-background-radius: 30;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="view.ChartCard">
+   <children>
+      <LineChart fx:id="lineChart" layoutX="16.0" layoutY="6.0" prefHeight="334.0" prefWidth="766.0" stylesheets="@../style.css">
+        <xAxis>
+          <NumberAxis side="BOTTOM" fx:id="xAxis" />
+        </xAxis>
+        <yAxis>
+          <NumberAxis fx:id="yAxis" side="LEFT" />
+        </yAxis>
+      </LineChart>
+      <Label layoutX="68.0" layoutY="359.0" prefHeight="25.0" prefWidth="114.0" text="C average time">
+         <font>
+            <Font name="System Bold" size="16.0" />
+         </font>
+      </Label>
+      <Label layoutX="338.0" layoutY="359.0" prefHeight="25.0" prefWidth="136.0" text="C# average time">
+         <font>
+            <Font name="System Bold" size="16.0" />
+         </font>
+      </Label>
+      <Label layoutX="610.0" layoutY="359.0" prefHeight="25.0" prefWidth="146.0" text="Java average time">
+         <font>
+            <Font name="System Bold" size="16.0" />
+         </font>
+      </Label>
+      <Label fx:id="cScore" layoutX="98.0" layoutY="385.0" text="Label">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Label>
+      <Label fx:id="csScore" layoutX="386.0" layoutY="385.0" text="Label">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Label>
+      <Label fx:id="javaScore" layoutX="664.0" layoutY="385.0" text="Label">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Label>
+   </children>
+   <effect>
+      <DropShadow>
+         <color>
+            <Color red="0.6447368264198303" green="0.6447368264198303" blue="0.6447368264198303" />
+         </color>
+      </DropShadow>
+   </effect>
+</AnchorPane>

@@ -1,0 +1,15 @@
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\threads_management\cs_thread_management\bin\Debug\net6.0\cs_thread_management.exe
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\threads_management\cs_thread_management\bin\Debug\net6.0\cs_thread_management.deps.json
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\threads_management\cs_thread_management\bin\Debug\net6.0\cs_thread_management.runtimeconfig.json
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\threads_management\cs_thread_management\bin\Debug\net6.0\cs_thread_management.dll
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\threads_management\cs_thread_management\bin\Debug\net6.0\cs_thread_management.pdb
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\threads_management\cs_thread_management\obj\Debug\net6.0\cs_thread_management.csproj.AssemblyReference.cache
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\threads_management\cs_thread_management\obj\Debug\net6.0\cs_thread_management.GeneratedMSBuildEditorConfig.editorconfig
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\threads_management\cs_thread_management\obj\Debug\net6.0\cs_thread_management.AssemblyInfoInputs.cache
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\threads_management\cs_thread_management\obj\Debug\net6.0\cs_thread_management.AssemblyInfo.cs
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\threads_management\cs_thread_management\obj\Debug\net6.0\cs_thread_management.csproj.CoreCompileInputs.cache
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\threads_management\cs_thread_management\obj\Debug\net6.0\cs_thread_management.dll
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\threads_management\cs_thread_management\obj\Debug\net6.0\refint\cs_thread_management.dll
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\threads_management\cs_thread_management\obj\Debug\net6.0\cs_thread_management.pdb
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\threads_management\cs_thread_management\obj\Debug\net6.0\cs_thread_management.genruntimeconfig.cache
+E:\AN3\ssc\PROIECT\run_and_measure\src\main\java\benchmarks\programs\threads_management\cs_thread_management\obj\Debug\net6.0\ref\cs_thread_management.dll
